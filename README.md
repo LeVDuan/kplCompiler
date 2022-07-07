@@ -34,7 +34,7 @@ chmod +x make.sh
 ```
 ./make.sh
 ```
-- Bạn có thể xem ví dụ sử dụng thư viện để tạo đồ thị đơn giản ở [đây](https://github.com/LeVDuan/kplCompiler/blob/main/usageExample.md).
+- Bạn có thể xem ví dụ sử dụng trình biên dịch đơn giản ở [đây](https://github.com/LeVDuan/kplCompiler/blob/main/usageExample.md).
 # Những người đóng góp 👨‍👨‍👦‍👦
 - [Lê Văn Duẩn](https://github.com/LeVDuan)
 # Thông tin và liên lạc ☎
